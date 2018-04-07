@@ -1,0 +1,12 @@
+Computer Science Project Work :
+School : St. Columbo Public School
+Student Name : Shreyansh Jain
+Topic : English Dictionary
+Academic Year : 2014-2015
+
+
+Content
+26 Text files[A-Z]
+Dictionery.cpp
+Dictionery.exe
+dic.txt
